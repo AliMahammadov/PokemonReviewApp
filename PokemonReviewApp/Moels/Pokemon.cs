@@ -10,5 +10,7 @@ namespace PokemonReviewApp.Moels
 
         public DateTime BirtyDate { get; set; }
 
+        public ICollection<Review> Reviews { get; set; }
+
     }
 }
