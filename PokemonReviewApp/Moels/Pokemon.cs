@@ -10,6 +10,5 @@ namespace PokemonReviewApp.Moels
 
         public DateTime BirtyDate { get; set; }
 
-        public int MyProperty { get; set; }
     }
 }
